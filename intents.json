@@ -1,0 +1,239 @@
+{
+
+  "intents": [
+      {
+          "tag": "greeting",
+          "patterns": [
+              "hi", 
+              "hello",
+              "how are you",
+              "bonjuor",
+              "niaje",
+              "wassup",
+              "hey"
+          ],  
+          
+          "responses": [
+              "hi too, what can i do for you today",
+              "hey there :), how can i help you",
+              "im fine how are you and what can i do for you today",
+              "im fine, how can i help you",
+              "niko poa, nikusaidie aje",
+              "hey, how can i help you",
+              "hi there, what can i do for you today",
+              "hi there, how can i help"
+
+          ]
+
+      },
+
+      {
+          "tag": "goodbye",
+          "patterns": [
+              "bye", 
+              "goodbye",
+              "tuonane",
+              "see ya",
+              "thank you bye"
+              
+          ],  
+          
+          "responses": [
+              "im thankful i was able to be of assistance to you",
+              "please come again",
+              "glad to be of help",
+              "goodbye ",
+              "see you",
+              "welcome again",
+              "twas a pleasure"
+          ]
+
+      },
+
+      {
+          "tag": "vision",
+          "patterns": [
+              "what is the vision of the university",
+              "what is the universities vision"
+
+              
+          ],  
+          
+          "responses": [
+              "Vision - To be a top rated University of technology"
+              
+          ]
+
+      },
+
+      {
+        "tag": "mission",
+        "patterns": [
+            "what is the mission of the university",
+            "what is the universities mission"
+
+            
+        ],  
+        
+        "responses": [
+            "Mission - To provide technological education and training and to contribute towards the advancement of society through research and innovation"
+            
+        ]
+
+    },
+
+    {
+        "tag": "governance",
+        "patterns": [
+            "how is tuk governed",
+            "what is the administration policy",
+            "what is the student union like"
+
+            
+        ],  
+        
+        "responses": [
+            "The Council is the supreme governing body of the institution. Its principal mandate is to oversee the activities and operations of the institution on behalf of the Government"
+
+            
+        ]
+
+    },
+
+    {
+        "tag": "directions",
+        "patterns": [
+            "how do i get to the university",
+            "give me directions to the university",
+            "how do i get to the university grounds",
+            "what route do i take to get to the university"
+
+            
+        ],  
+        
+        "responses": [
+            "use the following link : https://moovitapp.com/index/en/public_transit-Technical_University_of_Kenya_formly_The_Kenya_Polytechnic_University-Nairobi-site_32143332-3540"
+            
+            
+        ]
+
+    },
+
+
+      {
+        "tag": "about",
+        "patterns": [
+            "which services does the university offer", 
+            "what does the university offer",
+            "tell me about the university",
+            "what is the pride of the university",
+            "tell me about the institution",
+            
+            
+            "what is the universities contact information"
+
+            
+        ],  
+        
+        "responses": [
+            "THE Technical University of Kenya (TU-K) is the leading university in technological education and training in Kenya. The University was awarded a Charter in 2013, making it a fully-fledged public university The University specialises in training at the Postgraduate, Undergraduate and Diploma levels, while at the same time engaging in research. It has a clear student upward movement policy, which makes it easy for students to move from one level of training to the next, and recognise prior training by awarding students credit transfers."
+            
+        ]
+
+    },
+
+
+      {
+          "tag": "faculties",
+          "patterns": [
+              "which faculties are available", 
+              "which are the school departments",
+              "which faculties are there",
+              "tell me about faculties"
+
+      
+          ],  
+          
+          "responses": [
+              "the faculties in the school are FACULTY OF ENGINEERING AND THE BUILT ENVIRONMENT (FEBE), FACULTY OF SOCIAL SCIENCES AND TECHNOLOGY (FSST), FACULTY OF APPLIED SCIENCES AND TECHNOLOGY (FAST)"
+              
+          ]
+
+      },
+
+      {
+          "tag": "programs",
+          "patterns": [
+              "which academic programs are offered", 
+              "what courses does the university offer",
+              "which courses are there",
+              "can you tell me the courses offered"
+              
+
+      
+          ],  
+          
+          "responses": [
+              "the university offers a myriad of courses in different departments. to view an extensive list of the courses please go to https://intake.tukenya.ac.ke/",
+              "The University specialises in training at the Postgraduate, Undergraduate and Diploma levels, while at the same time engaging in research. It has a clear student upward movement policy, which makes it easy for students to move from one level of training to the next, and recognise prior training by awarding students credit transfers.The University has developed and implemented a digitised and completely paperless student applications process; from application to registration. Prospective students are therefore, advised to make their applications for the programmes listed below: https://intake.tukenya.ac.ke"
+              
+            ]
+
+      },
+
+      {
+          "tag": "application",
+          "patterns": [
+              "how do i apply for your courses", 
+              "what is the application procedure",
+              "what do i do to apply ",
+              "what is the application process"
+              
+
+      
+          ],  
+          
+          "responses": [
+               "Create Account with us or sign in if the account is already created. Enter your personal details to obtain a REFERENCE NUMBER which is in the form of APP/xxxxx/2022; Enter your academic qualifications and upload scanned copies of the corresponding certificates or result slips. Please note that result slips for examinations taken more than two years ago will not be accepted; Pay the application fee of KES 2,000 for Diploma/undergraduate programmes, KES 3,000 for postgraduate programmes, and KES 3,600 (USD 36) for foreign applicants. These payments should be made through MPESA Paybill number 5236153 and account number should be your application REFERENCE NUMBER obtained in 2. above. The payment will be confirmed automatically after 24 banking hours; After the elapse of 24 banking hours, return to this portal, log in and choose your preferred programme of study; thereafter, SUBMIT your programme of choice and wait for the selection process to be concluded. Meanwhile, you are advised to frequently log in, using your account details, to establish the status of your application."
+              
+          ]
+
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
